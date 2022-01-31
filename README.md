@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/64454230802444288)](https://discord.com/users/64454230802444288)
+[![Discord Presence](https://lanyard.cnrad.dev/api/64454230802444288?hideDiscrim=true)](https://discord.com/users/64454230802444288)
 
 <!--
 **Draewyn/draewyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
