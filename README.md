@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://dcbadge.vercel.app/api/shield/64454230802444288)
+
 <!--
 **Draewyn/draewyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
