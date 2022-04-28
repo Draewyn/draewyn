@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/64454230802444288?hideDiscrim=true)](https://discord.com/users/64454230802444288)
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=draewyn&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
-
 <!--
 **Draewyn/draewyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
